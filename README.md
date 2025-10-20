@@ -1,4 +1,4 @@
-# 📘 Codelab
+# Codelab
 
 **Codelab** ini adalah proyek Java sederhana yang dibuat untuk mempraktikkan penulisan dokumentasi menggunakan file `README.md` di dalam repositori Git.  
 Proyek ini bertujuan membantu pengguna memahami struktur dasar proyek, cara menjalankan kode, serta langkah-langkah berkontribusi.
