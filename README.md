@@ -1,50 +1,11 @@
 # Codelab
 
-**Codelab** ini adalah proyek Java sederhana yang dibuat untuk mempraktikkan penulisan dokumentasi menggunakan file `README.md` di dalam repositori Git.  
-Proyek ini bertujuan membantu pengguna memahami struktur dasar proyek, cara menjalankan kode, serta langkah-langkah berkontribusi.
-
+- **Codelab** ini adalah program sederhana menjumlah dan mengurangi bilangan yang sudah di tentukan
 ---
 
-## Fitur
-- Menampilkan pesan sambutan sederhana di konsol.
-- Contoh struktur proyek Java.
-- Contoh dokumentasi proyek open-source.
+## penjelasan proyek
+- didalam proyek ini dimana ada int x dan int x yang akan dijumlah dengan int x +y
+----
 
----
-
-## Teknologi yang Digunakan
-- **Java** (versi 17 atau lebih baru)
-- **Git & GitHub** untuk version control
-- **VS Code / IntelliJ IDEA** sebagai editor (opsional)
-
----
-
-## Struktur Proyek
-- Program-Lanjutan\
-- - Readme.md
-- - codelab 1\
-- - - src\
-- - - Main.java
-
----
-
-## Cara menambahkan repository di git
-```bash
-git init
-git add .
-git commit -m "Pesan"
-git branch -M main
-git remote add origin https://github.com/ahmadnurulhidayah67/Program-Lanjutan.git
-git push -u origin main
-```
-
----
-
-## Cara Menambahkan Proyek Ini
-Setelah membuat file `README.md`, tambahkan dan commit ke Git:
-
-```bash
-git add README.md
-git commit -m "Add README documentation"
-git push -u origin main
-```
+## yang diubah
+- mengubah int sum x + y menjadi int x - y
