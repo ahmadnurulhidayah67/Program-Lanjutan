@@ -28,6 +28,18 @@ Proyek ini bertujuan membantu pengguna memahami struktur dasar proyek, cara menj
 
 ---
 
+## Cara menambahkan repository di git
+```bash
+git init
+git add .
+git commit -m "Pesan"
+git branch -M main
+git remote add origin https://github.com/ahmadnurulhidayah67/Program-Lanjutan.git
+git push -u origin main
+```
+
+---
+
 ## Cara Menambahkan Proyek Ini
 Setelah membuat file `README.md`, tambahkan dan commit ke Git:
 
@@ -35,3 +47,4 @@ Setelah membuat file `README.md`, tambahkan dan commit ke Git:
 git add README.md
 git commit -m "Add README documentation"
 git push -u origin main
+```
