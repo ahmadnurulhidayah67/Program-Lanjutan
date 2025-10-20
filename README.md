@@ -9,3 +9,5 @@
 
 ## yang diubah
 - mengubah int sum x + y menjadi int x - y
+
+## Menambahkan
